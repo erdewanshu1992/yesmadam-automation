@@ -6,7 +6,6 @@ import com.opencsv.CSVReader;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import screen.mobile.LoginScreen;
-
 import java.io.FileReader;
 import java.util.List;
 
