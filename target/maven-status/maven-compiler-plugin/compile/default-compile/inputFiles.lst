@@ -1,0 +1,10 @@
+/Users/yesmadamtesting/Desktop/ym-webAutomationJava/src/main/java/base/BaseTest.java
+/Users/yesmadamtesting/Desktop/ym-webAutomationJava/src/main/java/base/DriverFactory.java
+/Users/yesmadamtesting/Desktop/ym-webAutomationJava/src/main/java/enums/PlatformType.java
+/Users/yesmadamtesting/Desktop/ym-webAutomationJava/src/main/java/listeners/TestListener.java
+/Users/yesmadamtesting/Desktop/ym-webAutomationJava/src/main/java/pages/mobile/HomeScreen.java
+/Users/yesmadamtesting/Desktop/ym-webAutomationJava/src/main/java/pages/web/HomePage.java
+/Users/yesmadamtesting/Desktop/ym-webAutomationJava/src/main/java/pages/web/ServicesPage.java
+/Users/yesmadamtesting/Desktop/ym-webAutomationJava/src/main/java/utils/ConfigReader.java
+/Users/yesmadamtesting/Desktop/ym-webAutomationJava/src/main/java/utils/LoggerUtil.java
+/Users/yesmadamtesting/Desktop/ym-webAutomationJava/src/main/java/utils/WaitUtils.java
