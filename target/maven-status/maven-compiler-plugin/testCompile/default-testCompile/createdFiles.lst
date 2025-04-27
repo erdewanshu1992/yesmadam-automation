@@ -1,7 +1,0 @@
-runner/TestRunner.class
-tests/mobile/MobileTest.class
-tests/web/WebTest.class
-tests/WebMobileLaunch.class
-tests/mobile/MobileWebRealDeviceTest.class
-tests/TestPlatform.class
-tests/web/HomePageTest.class

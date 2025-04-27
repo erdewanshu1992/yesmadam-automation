@@ -1,6 +1,0 @@
-[
-  {"keyword": "open", "locator": "", "value": "https://example.com/login"},
-  {"keyword": "type", "locator": "username", "value": "testuser"},
-  {"keyword": "type", "locator": "password", "value": "testpass"},
-  {"keyword": "click", "locator": "submit", "value": ""}
-]
