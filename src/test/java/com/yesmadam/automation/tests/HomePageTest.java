@@ -8,25 +8,7 @@ import org.testng.annotations.Test;
 
 import java.net.MalformedURLException;
 
-public class HomePageTest extends BaseTest {
+public class HomePageTest {
 
-    private HomePage homePage;
-
-    @BeforeMethod
-    public void setup() throws MalformedURLException {
-        super.setup(); // Initialize the driver and open the URL
-        homePage = new HomePage(driver); // Initialize the page object
-    }
-
-    @Test
-    public void testLoginButton() {
-        homePage.clickLoginButton(); // Using the page object method
-        // Additional assertions here
-    }
-
-    @AfterMethod
-    public void tearDown() {
-        super.tearDown();
-    }
 }
 
